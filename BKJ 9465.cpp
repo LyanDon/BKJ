@@ -1,5 +1,5 @@
-/*
-	9465: ��ƼĿ
+﻿/*
+	9465: 스티커
 */
 #include<iostream>
 #include<algorithm>
