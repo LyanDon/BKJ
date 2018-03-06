@@ -1,4 +1,4 @@
-/*
+﻿/*
 	1021: 회전하는 큐
 */
 #include <iostream>
@@ -15,9 +15,6 @@ int main()
 	{
 		dq.push_back(i + 1);
 	}
-
-
-
 	
 	for (int i = 0; i<M; i++)
 	{
